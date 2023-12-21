@@ -46,12 +46,13 @@ const firebaseConfig = {
  */
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDLtXnQ3g3WRwwEgPJg0rAUVyKM8YbhxB8",
-    authDomain: "piwelwar3.firebaseapp.com",
-    projectId: "piwelwar3",
-    storageBucket: "piwelwar3.appspot.com",
-    messagingSenderId: "1027661523541",
-    appId: "1:1027661523541:web:dfbeeb05930f003d5a02dc"
+    apiKey: "AIzaSyAH2ZtUvHlsKzlkQBIIS0nE8XH-_rN0s_4",
+    authDomain: "pixelwaradmin-ec160.firebaseapp.com",
+    projectId: "pixelwaradmin-ec160",
+    storageBucket: "pixelwaradmin-ec160.appspot.com",
+    messagingSenderId: "288656862569",
+    appId: "1:288656862569:web:ddc1f16b850b456dd1a1f8",
+    measurementId: "G-VRMG8KDD4B"
 };
 
 const fb = initializeApp(firebaseConfig);
